@@ -1,23 +1,25 @@
-## Bienvenue sur la Couronne de Cuivre : le Monde des RPG ! 👋
+<h2 align="center">Bienvenue sur la Couronne de Cuivre : le Monde des RPG ! 👋</h2>
 
-<div align="center"><img src="https://raw.githubusercontent.com/LaCouronnedeCuivre/.github/main/profile/logo_lcc.png"></div>
+<div align="center"><a href="https://www.baldursgateworld.fr/lacouronne/content/"><img src="https://raw.githubusercontent.com/LaCouronnedeCuivre/.github/main/profile/logo_lcc.png"></a></div>
 
 ## 
 
 Cette communauté francophone dynamique regroupe des membres fans de role-playing games (ou RPG) fantasy dont le mythique Baldur's Gate et ses dérivés, tels Icewind Dale ou Neverwinter Nights, mais également des sagas plus récentes comme Dragon Age, Drakensang et The Witcher, sans oublier Pillars of Eternity, Torment: Tides of Numenéra et Divinity: Original Sin 2.
 
-Dans un registre plus technique, la communauté <a href="https://www.baldursgateworld.fr/lacouronne/la-forge-de-grondemarteau/">développe des mods pour <a href="https://www.baldursgateworld.fr/lacouronne/la-chambre-des-scribes/">Baldur's Gate</a> et les traduit</a> . N'hésitez pas à apporter votre contribution à ces travaux qui permettent de faire profiter les autres joueurs d'un nouveau regard sur le jeu !
+Dans un registre plus technique, la communauté <a href="https://www.baldursgateworld.fr/lacouronne/la-forge-de-grondemarteau/">développe des mods pour Baldur's Gate</a> et les <a href="https://www.baldursgateworld.fr/lacouronne/la-chambre-des-scribes/">traduit</a> . N'hésitez pas à apporter votre contribution à ces travaux qui permettent de faire profiter les autres joueurs d'un nouveau regard sur le jeu !
 
 Enfin, si vous souhaitez créer votre personnage et le faire évoluer dans un univers basé sur celui des Royaumes Oubliés, en décrivant de façon littéraire ses actions, ses pensées et ses ambitions, les <a href="https://www.baldursgateworld.fr/lacouronne/lointaines-contrees-de-toril/">lointaines contrées de Toril</a>  sont faites pour vous !
 
 ## 
 
-<h3 align="left">Connect with us:</h3>
+<h4 align="left">Pour nous contacter (Connect with us) :</h4>
 
 <p align="center">
-<a href="https://twitter.com/couronnecuivre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="couronnecuivre" height="30" width="40" /></a>
-<a href="https://fb.com/couronnedecuivre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="couronnedecuivre" height="30" width="40" /></a>
+<a href="https://www.baldursgateworld.fr/lacouronne/forum.php"><img align="center" src="https://avatars.githubusercontent.com/u/97599805?s=200&v=4" height="30" width="30" /></a>
 <a href="https://discord.gg/v5F8PFT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="v5F8PFT" height="30" width="40" /></a>
+<a href="https://twitter.com/couronnecuivre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="couronnecuivre" height="24" width="32" /></a>
+<a href="https://fb.com/couronnedecuivre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="couronnedecuivre" height="24" width="32" /></a>
+
 </p>
 
 <!--
