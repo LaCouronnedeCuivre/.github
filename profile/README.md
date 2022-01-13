@@ -1,6 +1,6 @@
 ## Bienvenue sur la Couronne de Cuivre : le Monde des RPG ! 👋
 
-<div align="center"><img src="https://github.com/LaCouronnedeCuivre/.github/profile/logo_lcc.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/LaCouronnedeCuivre/.github/main/profile/logo_lcc.png"></div>
 
 ## 
 Cette communauté dynamique regroupe des membres fans de role-playing games (ou RPG) fantasy dont le mythique Baldur's Gate et ses dérivés, tels Icewind Dale ou Neverwinter Nights, mais également des sagas plus récentes comme Dragon Age, Drakensang et The Witcher, sans oublier Pillars of Eternity, Torment: Tides of Numenéra et Divinity: Original Sin 2.
