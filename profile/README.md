@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![image](https://www.baldursgateworld.fr/lacouronne/images_skinv1/logo_lcc16.png)
 
+<img src="logo_lcc.png">
 <img scr="https://www.baldursgateworld.fr/lacouronne/images_skinv1/logo_lcc16.png">
 <!--
 
